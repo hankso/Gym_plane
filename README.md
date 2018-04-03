@@ -1,7 +1,9 @@
-# gym-plane!
-2D streaming plane war game writen in python with `pygame`!
+# Gym plane!
+2D STG plane war game, author is [@buaawyz](https://github.com/buaawyz)
+
 Learning how to make simple games from **FishC**'s blog.
-This can be use as a gym--environment for Reinforcement Learning experiments.
+
+This can be use as a gym-environment for Reinforcement Learning or other experiments.
 
 # Installation
 Download this repo or clone it locally.
@@ -12,5 +14,5 @@ Download this repo or clone it locally.
 - Finally, `client.send(commands)` where commands can be {'0': nothing, '1': up, '2': down, '3':left, '4': right, '9': disconnect}
 - Enjoy!
 
-# Depends
+# Dependency
 - pygame
