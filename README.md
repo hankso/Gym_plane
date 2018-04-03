@@ -14,12 +14,12 @@ Download this repo or clone it locally.
 - Finally, use `client.send(commands)`to control plane, where commands can be 
 ```json
 {
-    '0': nothing, 
-    '1': up, 
-    '2': down, 
-    '3': left, 
-    '4': right, 
-    '9': disconnect
+    "0": "nothing", 
+    "1": "up",
+    "2": "down",
+    "3": "left", 
+    "4": "right", 
+    "9": "disconnect"
 }
 ```
 
